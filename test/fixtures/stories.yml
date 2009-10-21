@@ -1,0 +1,20 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  link: MyString
+  user: money
+
+  votes_count: 2
+
+two:
+  name: MyString
+  link: MyString
+  user: maurice
+
+  votes_count: 0
+  promoted:
+    name: What is a Debugger?
+    link: http://en.wikipedia.org/wiki/Debugger/
+    user: john
+    votes_count: 5

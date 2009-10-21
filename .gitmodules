@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/rspec"]
+	path = vendor/plugins/rspec
+	url = git://github.com/jviney/acts_as_taggable_on_steroids.git

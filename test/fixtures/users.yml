@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+money:
+  login: money
+  password: testmoney
+  name: Money Lloyd
+  email: moneylloyd@gmail.com
+
+maurice:
+  login: maurice
+  password: testmaurice
+  name: Maurice Lloyd
+  email: mauricealloyd@gmail.com
